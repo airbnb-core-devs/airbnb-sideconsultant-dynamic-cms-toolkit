@@ -1,15 +1,4 @@
-![Victoire](https://cloud.githubusercontent.com/assets/618536/20215349/db459e60-a813-11e6-894d-ba4ec0f2c088.jpg)
-
-[![Gitter chat](https://badges.gitter.im/Victoire/Victoire.png)](https://gitter.im/Victoire/victoire)
-[![License](https://img.shields.io/packagist/l/Victoire/Victoire.svg)](https://packagist.org/packages/Victoire/Victoire)
-[![Version](https://img.shields.io/packagist/v/Victoire/Victoire.svg)](https://packagist.org/packages/Victoire/Victoire)
-[![CircleCI](https://circleci.com/gh/Victoire/victoire.svg?style=shield)](https://circleci.com/gh/Victoire/victoire)
-[![Scrutinizer Quality Score](https://img.shields.io/scrutinizer/g/Victoire/Victoire.svg)](https://scrutinizer-ci.com/g/Victoire/victoire/)
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/92a98a39-8fa0-4e3c-b90d-e56d4c8f89b3/mini.png)](https://insight.sensiolabs.com/projects/92a98a39-8fa0-4e3c-b90d-e56d4c8f89b3)
-
-## Warning
-
-Victoire is not supported anymore.
+Airbnb Side Consultant Dynamic CMS Toolkit
 
 ## Overview
 
